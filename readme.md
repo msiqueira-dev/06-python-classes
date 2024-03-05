@@ -4,4 +4,4 @@
 
 [EN]: This is an example of a Python program that teachs classes and object oriented programming.
 
-YouTube Link: 
+YouTube Link: https://www.youtube.com/watch?v=hzjFUbFdkUk
